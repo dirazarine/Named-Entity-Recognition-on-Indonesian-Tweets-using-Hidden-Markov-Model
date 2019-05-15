@@ -5,5 +5,6 @@ how to run NER.py at cmd
 
 use conlleval
 > copy the HMM results in 'testoutput' to output.txt which is in the conlleval-master.rar file
-> run conlleval.py using this code:
-  >> py -3 conlleval.py < output.txt
+
+run conlleval.py using this code:
+> py -3 conlleval.py < output.txt
